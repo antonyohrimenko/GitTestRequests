@@ -5,7 +5,8 @@ public class Main {
 
         System.out.println("Создали ветку, ответвились от основной. Внесли изменения");
         System.out.println("Делаем коммит и пул-реквест");
+      
 
-        System.out.println("Что-то делаю из ветки 3 на той же строке");
+
     }
 }
